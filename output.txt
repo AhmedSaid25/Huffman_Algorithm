@@ -1,0 +1,8 @@
+B 00
+C 01
+A 1
+TABLE
+Size before compress: 80 bits
+The encoded String: 111000100011011
+Size after compress: 39 bits
+Decompressed string AAABCBCACA
